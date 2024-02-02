@@ -1,6 +1,7 @@
 log.txt
 .vscode
-
+errors.txt
+.rpyc
 game/saves
 game/cache
 traceback.txt
